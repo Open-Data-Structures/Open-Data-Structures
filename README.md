@@ -52,17 +52,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
-
-
-<br>
-
----
-
-<p align="center">
-<a href="https://github.com/Ksodlehe/" alt="Personal Github Account">
-    <img href="https://github.com/Ksodlehe/" src="https://img.shields.io/badge/Ksodlehe-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FKsodlehe%2F" />
-</a>
-<a href="https://github.com/Simplify-App/" alt="Simplistic Spotify Player">
-    <img src="https://img.shields.io/badge/Simplify_App-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FSimplify-App%2F" />
-</a>
-</p>
